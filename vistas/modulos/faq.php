@@ -2,7 +2,7 @@
                FAQ
 ======================================-->
 
-<div class="colorlib-services colorlib-bg-white">
+<div class="colorlib-services colorlib-bg-white " id="faq">
   <div class="container">
     <div class="row animate-box">
       <h2 class="text-center">Preguntas Frecuentes</h2>
