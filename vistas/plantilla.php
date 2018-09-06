@@ -8,7 +8,7 @@
 
 	<body>
 
-	<div class="colorlib-loader"></div>
+<!--	<div class="colorlib-loader"></div>-->
 
 	<div id="page">
 		<?php
@@ -379,104 +379,25 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
-						<h2>Precios</h2>
+						<h2>Precio</h2>
 						<!-- <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p> -->
 					</div>
 				</div>
 				<div class="row">
-					<!--tabla Basico-->
-					<div class="col-md-4 text-center animate-box">
+
+					<div class="col-md-12 col-md-offset-0 col-sm-12 col-xs-12 text-center  ">
 						<div class="pricing">
-							<h3 class="pricing-heading">Básico</h3>
+							<h3 class="pricing-heading">Ultimate</h3>
 							<hr>
-							<div class=" text-muted">Integrarlo a una web ya existente</div>
+							<div class=" text-muted">Paquete mensual</div>
 							<hr />
 							<div class="price"><sup class="currency">MXN</sup>399<small>por mes</small></div>
 							<table class="table">
 								<thead>
 									<tr>
 
-										<th scope="col">Funciones</th>
-										<th scope="col">Especificaciones</th>
-
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-
-										<td>No. Administradores</td>
-										<td>ilimitado</td>
-
-									</tr>
-									<tr>
-
-										<td>No. Productos</td>
-										<td>ilimitado</td>
-
-									</tr>
-									<tr>
-
-										<td>Almacenamiento</td>
-										<td>1 GB (SSD)</td>
-
-									</tr>
-                                                                    	
-									<tr>
-
-										<td>Hosting<br /> <a href="#faq"><small>más info</small></a></td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-									<tr>
-
-										<td>Dashboard de administración</td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-
-									<tr>
-
-										<td>Datos Estructurados Google (SEO)</td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-									<tr>
-
-										<td>Soporte</td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-									<tr>
-
-										<td>Tarjetas Enriquecidas SEO</td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-									<tr>
-
-										<td>Integración Paypal y PayU Latam</td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-
-
-							  </tbody>
-							</table>
-							<p></p>
-							<p><a href= "https://tutiendaenlinea.online/vistas/modulos/contact.php" class="btn btn-primary">
-								Contacto
-								</a></p>
-						</div>
-					</div>
-					<!-- termina tabla basico-->
-					<!--tabla plus-->
-					<div class="col-md-4 text-center animate-box">
-						<div class="pricing">
-							<h3 class="pricing-heading">Plus</h3>
-							<hr>
-							<div class=" text-muted">Instalación desde cero</div>
-							<hr />
-							<div class="price"><sup class="currency">MXN</sup>599<small>por mes</small></div>
-							<table class="table">
-								<thead>
-									<tr>
-
-										<th scope="col">Funciones</th>
-										<th scope="col">Especificaciones</th>
+										<th class="text-center" scope="col">Funciones</th>
+										<th class="text-center"scope="col">Especificaciones</th>
 
 									</tr>
 								</thead>
@@ -543,119 +464,23 @@
 									</tr>
                 				 	<tr>
 
-										<td>Facebook pixel</td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-
-								</tbody>
-							</table>
-							<!--tabla plus+-->
-							<p><a href= "https://tutiendaenlinea.online/vistas/modulos/contact.php" class="btn btn-primary">
-								Contacto
-								</a></p>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-12 col-xs-12 text-center animate-box">
-						<div class="pricing">
-							<h3 class="pricing-heading">Plus +</h3>
-							<hr>
-							<div class=" text-muted">No tengo experiencia</div>
-							<hr />
-							<div class="price"><sup class="currency">MXN</sup>799<small>por mes</small></div>
-							<table class="table">
-								<thead>
-									<tr>
-
-										<th scope="col">Funciones</th>
-										<th scope="col">Especificaciones</th>
-
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-
-										<td>No. Administradores</td>
-										<td>ilimitado</td>
-
-									</tr>
-									<tr>
-
-										<td>No. Productos</td>
-										<td>ilimitado</td>
-
-									</tr>
-									<tr>
-
-										<td>Almacenamiento</td>
-										<td>1 GB (SSD)</td>
-
-									</tr>
-                                                                    	
-									<tr>
-
-										<td>Hosting<br /> <a href="#faq"><small>más info</small></a></td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-									<tr>
-
-										<td>Dashboard de administración</td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-
-									<tr>
-
-										<td>Datos Estructurados Google (SEO)</td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-									<tr>
-
-										<td>Soporte</td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-									<tr>
-
-										<td>Tarjetas Enriquecidas SEO</td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-									<tr>
-
-										<td>Integración Paypal y PayU Latam</td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-                                  	<tr>
-
-										<td>Inicio de sesión con Facebook y Google</td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-                                  	<tr>
-
-										<td>Compartir con Facebook y Google</td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-                				 	<tr>
-
-										<td>Facebook pixel</td>
+										<td>Configuración Facebook pixel</td>
 										<td><i class="fa fa-check"></i></td>
 									</tr>
                                      <tr>
 
-										<td>Facebook pixel</td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-									<tr>
-
-										<td>Configuración redes sociales <br  /> <a href="#"><small>más info</small></a></td>
-										<td><i class="fa fa-check"></i></td>
-									</tr>
-									<tr>
-
-										<td>Landing Page <br /> <a href="#"><small>más info</small></a></td>
+										<td>Configuración Google Analytics <br /> <a href="#faq"><small>más info</small></a>  </td>
 										<td><i class="fa fa-check"></i></td>
 									</tr>
                                      <tr>
 
-										<td>Google Analytics <br /> <a href="#"><small>más info</small></a></td>
-										<td><i class="fa fa-check"></i></td>
+										<td>Tiempo de instalación y configuración <br /></td>
+										<td>De 2 a 3 días hábiles</td>
+									</tr>
+								    <tr>
+
+										<td>¿Por qué no incluye dominio? <br /> <a href="#faq"><small>más info</small></a>  </td>
+										<td>Puedes elegir el dominio que tu desees, no importando que sea .com .app .org etc... y nosotros te ayudamos a configurarlo.</td>
 									</tr>
 
 						  	</tbody>
