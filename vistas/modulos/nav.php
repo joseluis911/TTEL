@@ -17,7 +17,7 @@
                 <li><a href="work-grid-without-text.html">Works grid w/o text</a></li>
               </ul>
             </li> -->
-             <li><a href="#precio">Precios</a></li>
+             <li><a href="http://localhost/produccion/tutienda/vistas/modulos/plan.php">Precios</a></li>
              <li><a href="https://tutiendaenlinea.online/vistas/modulos/blog.php">Blog</a></li> 
             <!-- <li><a href="about.html">Acerca de nosotros</a></li> -->
             <li><a href="https://demobackend.tutiendaenlinea.online/">DemoAdmin</a></li>
